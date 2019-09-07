@@ -1,1 +1,3 @@
 .DS_Store
+*.ipynb_checkpoints*
+a1/.ipynb_checkpoints/exploring_word_vectors-checkpoint.ipynb
